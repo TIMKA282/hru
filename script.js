@@ -1,4 +1,5 @@
 let money_text=document.querySelector(".money-text")
+let logo_clicker=document.querySelector("#logo-clicker")
 let main_clicker=document.querySelector(".clicker")
 let counter=0
 let price=1
